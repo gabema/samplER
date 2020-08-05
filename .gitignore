@@ -1,0 +1,5 @@
+#Twig cache folder
+cache/
+vendor/
+build/
+*.phar
